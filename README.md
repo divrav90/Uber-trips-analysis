@@ -1,3 +1,3 @@
-# Uber-trips-analysis
+# Uber-trips-analysis using python
 The project is based on the trips made by Uber drivers. Different aspects of the trip are analyzed by using different functions in Python.
 This project mainly involves in analysing the most frequent route taken by customers and the most popular start and stop destinations, purpose of the trip etc....
